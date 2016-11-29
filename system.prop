@@ -64,7 +64,7 @@ ro.use_data_netmgrd=true
 
 telephony.lteOnGsmDevice=1
 
-# sdcardFS
+# SdcardFS
 ro.sys.sdcardfs=true
 
 # Sensors
